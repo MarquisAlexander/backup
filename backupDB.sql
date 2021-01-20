@@ -1,1 +1,1 @@
-pg_dumpall: error: could not connect to database "template1": FATAL:  role "postgres" does not exist
+OCI runtime exec failed: exec failed: container_linux.go:370: starting container process caused: exec: "-c": executable file not found in $PATH: unknown
